@@ -1,4 +1,4 @@
-                                         ## Sprint0 ##
+                                         ## Sprint0
                                        Group task of sprint0
 
 					Aya Ayman 37-2656
